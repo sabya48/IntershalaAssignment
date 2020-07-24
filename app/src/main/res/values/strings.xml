@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntershalaAssignment</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="title_home">Title Home</string>
+</resources>
