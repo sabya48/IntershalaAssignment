@@ -16,22 +16,22 @@
                 android:startY="2"
                 android:type="linear">
                 <item
-                    android:color="#FBE53B"
+                    android:color="#FFFFFF"
                     android:offset="0"/>
                 <item
-                    android:color="#FF4F01"
+                    android:color="#FFFFFF"
                     android:offset="0.17"/>
                 <item
-                    android:color="#FF14B2"
+                    android:color="#FFFFFF"
                     android:offset="0.35"/>
                 <item
-                    android:color="#8000FF"
+                    android:color="#FFFFFF"
                     android:offset="0.55"/>
                 <item
-                    android:color="#00C1FF"
+                    android:color="#FFFFFF"
                     android:offset="0.8"/>
                 <item
-                    android:color="#17F036"
+                    android:color="#FFFFFF"
                     android:offset="1"/>
             </gradient>
         </aapt:attr>
